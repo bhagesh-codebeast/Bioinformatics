@@ -1,5 +1,5 @@
 import argparse
-from Bio import GenBank
+from Bio import SeqIO
 
 #Argparse arguments
 parser = argparse.ArgumentParser(description='\n GenBank to Fasta converter.')
@@ -16,12 +16,14 @@ elif not args.output:
 else:
     inputpath = args.input
     outputpath = args.output
+   
+    with open(inputpath, "r") as input_handle:
+        with open(outputpath, "w") as output_handle:
 
-    #GenBank parser
-    with open(inputpath) as handle:
-        for record in GenBank.parse(handle):
+            #GenBank parser
+            sequences = SeqIO.parse(input_handle, "genbank")
 
             #writing to a file
-            with open(outputpath,'w') as f:
-                f.write(">"+outputpath.replace("/","").replace(".","")+"\n"+record.sequence)
-                print("\n Fasta file has been created in the folder: "+outputpath)
+            SeqIO.write(sequences, output_handle, "fasta")
+
+            print("\n Fasta file has been created in the folder: "+outputpath)
