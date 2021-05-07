@@ -3,7 +3,7 @@ Python Scripts &amp; Notebooks for Bioinformatics
 
 ## Jupyter Note-Books
 
-1. [Basic Biopython commands]()
+1. [Sequencing Parsing & Reading](https://github.com/bhagesh-codebeast/bioinformtics/blob/main/Notebooks/sequence_parsing%26reading.ipynb)
 
 ## Python Scripts
 1. [Script to convert PDB files to Fasta format](https://github.com/bhagesh-codebeast/bioinformtics/blob/main/Scripts/pdb2fasta.py)
