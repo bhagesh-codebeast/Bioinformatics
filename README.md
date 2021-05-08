@@ -12,14 +12,14 @@ Python Scripts &amp; Notebooks for Bioinformatics
     Use case:
   
     ```python
-    python pdb2fasta.py -i Data/input.pdb -o Data/output.fasta
+    python pdb2fasta.py -i folder/inputfile.pdb -o folder/outputfile.fasta
     ```
 2. [Script to convert GenBank files to Fasta format](https://github.com/bhagesh-codebeast/bioinformtics/blob/main/Scripts/genbank2fasta.py)
 
     Use case:
   
     ```python
-    python genbank2fasta.py -i Data/input.gb -o Data/output.fasta
+    python genbank2fasta.py -i folder/inputfile.gb -o folder/outputfile.fasta
     ```
 
 3. [Script to convert FastQ files to Fasta format](https://github.com/bhagesh-codebeast/bioinformtics/blob/main/Scripts/fastq2fasta.py)
@@ -27,7 +27,7 @@ Python Scripts &amp; Notebooks for Bioinformatics
     Use case:
   
     ```python
-    python fastq2fasta.py -i Data/input.fastq -o Data/output.fasta
+    python fastq2fasta.py -i folder/inputfile.fastq -o folder/outputfile.fasta
     ```
 
 Connect with me:
