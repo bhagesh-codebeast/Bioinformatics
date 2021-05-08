@@ -3,15 +3,8 @@ Python Scripts &amp; Notebooks for Bioinformatics
 
 ## Jupyter Note-Books
 
-1. [Sequencing Parsing & Reading](https://hub.gke2.mybinder.org/user/bhagesh-codebeast-bioinformtics-ngk3ed6a/notebooks/Notebooks/sequence_parsing%26reading.ipynb)
-<!---
-2. [](https://hub.gke2.mybinder.org/user/bhagesh-codebeast-bioinformtics-ngk3ed6a/notebooks/Notebooks/Covid_Biopython_analysis.ipynb.ipynb)
-3. [](https://hub.gke2.mybinder.org/user/bhagesh-codebeast-bioinformtics-ngk3ed6a/notebooks/Notebooks/%26.ipynb)
-4. [](https://hub.gke2.mybinder.org/user/bhagesh-codebeast-bioinformtics-ngk3ed6a/notebooks/Notebooks/%26.ipynb)
-5. [](https://hub.gke2.mybinder.org/user/bhagesh-codebeast-bioinformtics-ngk3ed6a/notebooks/Notebooks/%26.ipynb)
--->
+1. [Sequencing Parsing & Reading](https://github.com/bhagesh-codebeast/bioinformtics/blob/main/Notebooks/sequence_parsing%26reading.ipynb)
 
-#### Link for all Notebooks : [Jupyter Lab](https://hub.gke2.mybinder.org/user/bhagesh-codebeast-bioinformtics-ngk3ed6a/tree/Notebooks/)
 
 ## Python Scripts
 1. [Script to convert PDB files to Fasta format](https://github.com/bhagesh-codebeast/bioinformtics/blob/main/Scripts/pdb2fasta.py)
