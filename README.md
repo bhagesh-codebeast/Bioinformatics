@@ -1,6 +1,3 @@
-# Bioinformtics
-Python Scripts & Notebooks for Bioinformatics
-
 # Requirements
 
 **Script Pre-requisites** : *Python pip & Biopython*, which can be installed using the following command: 
