@@ -60,7 +60,7 @@ jupyter notebook
 3. **Sequence Statistics & visualisation**
 
 # Binder
-Copy GitHub repository URL below and paste it in [**Binder**](https://mybinder.org/) to run the jupyter notebooks
+Copy GitHub repository URL below and paste it in [**Binder**](https://mybinder.org/) to view & run the jupyter notebooks
 ```
 https://github.com/bhagesh-codebeast/bioinformtics/tree/main/Notebooks
 ````
