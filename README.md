@@ -19,14 +19,14 @@ jupyter notebook
 ```
 
 # Python Scripts
-1. [Script to convert PDB files to Fasta format](https://github.com/bhagesh-codebeast/bioinformtics/blob/main/Scripts/pdb2fasta.py)
+1. [**Script to convert PDB files to Fasta format**](https://github.com/bhagesh-codebeast/bioinformtics/blob/main/Scripts/pdb2fasta.py)
 
     Use case:
   
     ```
     python pdb2fasta.py -i folder/inputfile.pdb -o folder/outputfile.fasta
     ```
-2. [Script to convert GenBank files to Fasta format](https://github.com/bhagesh-codebeast/bioinformtics/blob/main/Scripts/genbank2fasta.py)
+2. [**Script to convert GenBank files to Fasta format**](https://github.com/bhagesh-codebeast/bioinformtics/blob/main/Scripts/genbank2fasta.py)
 
     Use case:
   
@@ -34,21 +34,21 @@ jupyter notebook
     python genbank2fasta.py -i folder/inputfile.gb -o folder/outputfile.fasta
     ```
 
-3. [Script to convert FastQ files to Fasta format](https://github.com/bhagesh-codebeast/bioinformtics/blob/main/Scripts/fastq2fasta.py)
+3. [**Script to convert FastQ files to Fasta format**](https://github.com/bhagesh-codebeast/bioinformtics/blob/main/Scripts/fastq2fasta.py)
 
     Use case:
   
     ```
     python fastq2fasta.py -i folder/inputfile.fastq -o folder/outputfile.fasta
     ```
-3. Script to download Fasta, GenBank & PDB files
+3. **Script to download Fasta, GenBank & PDB files**
 
     Use case:
   
     ```
     python biodown.py -i inputID.txt -o outputlocation -f seqformat(gb/fa/pdb)
     ```
-3. Script to output basic statistics and visualisation
+3. **Script to output basic statistics and visualisation**
 
     Use case:
   
@@ -58,9 +58,9 @@ jupyter notebook
 
 # Jupyter NoteBooks
 
-1. [Sequence Parsing & Reading](https://github.com/bhagesh-codebeast/bioinformtics/blob/main/Notebooks/sequence_parsing%26reading.ipynb)
-2. Sequence Downloading
-3. Sequence Statistics & visualisation
+1. [**Sequence Parsing & Reading**](https://github.com/bhagesh-codebeast/bioinformtics/blob/main/Notebooks/sequence_parsing%26reading.ipynb)
+2. **Sequence Downloading**
+3. **Sequence Statistics & visualisation**
 
 # Binder
 Copy GitHub repository URL below and paste it in [Binder](https://mybinder.org/) to run the jupyter notebooks
