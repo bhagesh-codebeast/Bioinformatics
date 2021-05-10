@@ -20,14 +20,14 @@
     ```
 
 # Python Scripts
-1. [**Script to convert PDB files to Fasta format**](https://github.com/bhagesh-codebeast/bioinformtics/blob/main/Scripts/pdb2fasta.py)
+1. [**Script to convert PDB files to Fasta format**](https://github.com/bhagesh-codebeast/Bioinformtics/blob/main/Scripts/pdb2fasta.py)
 
     Use case:
   
     ```
     python pdb2fasta.py -i folder/inputfile.pdb -o folder/outputfile.fasta
     ```
-2. [**Script to convert GenBank files to Fasta format**](https://github.com/bhagesh-codebeast/bioinformtics/blob/main/Scripts/genbank2fasta.py)
+2. [**Script to convert GenBank files to Fasta format**](https://github.com/bhagesh-codebeast/Bioinformtics/blob/main/Scripts/genbank2fasta.py)
 
     Use case:
   
@@ -35,7 +35,7 @@
     python genbank2fasta.py -i folder/inputfile.gb -o folder/outputfile.fasta
     ```
 
-3. [**Script to convert FastQ files to Fasta format**](https://github.com/bhagesh-codebeast/bioinformtics/blob/main/Scripts/fastq2fasta.py)
+3. [**Script to convert FastQ files to Fasta format**](https://github.com/bhagesh-codebeast/Bioinformtics/blob/main/Scripts/fastq2fasta.py)
 
     Use case:
   
@@ -59,7 +59,7 @@
 
 # Jupyter NoteBooks
 
-1. [**Sequence Parsing & Reading**](https://github.com/bhagesh-codebeast/bioinformtics/blob/main/Notebooks/sequence_parsing%26reading.ipynb)
+1. [**Sequence Parsing & Reading**](https://github.com/bhagesh-codebeast/Bioinformtics/blob/main/Notebooks/sequence_parsing%26reading.ipynb)
 2. **Sequence Downloading**
 3. **Sequence Statistics & visualisation**
 
