@@ -1,19 +1,22 @@
-# bioinformtics
-Python Scripts &amp; Notebooks for Bioinformatics
+# Bioinformtics
+Python Scripts & Notebooks for Bioinformatics
 
-# Jupyter NoteBooks
+# Requirements
 
-1. [Sequence Parsing & Reading](https://github.com/bhagesh-codebeast/bioinformtics/blob/main/Notebooks/sequence_parsing%26reading.ipynb)
-2. Sequence Downloading
-3. Sequence Statistics & visualisation
-
-
----
-### Binder
-Copy GitHub repository URL below and paste it in [Binder](https://mybinder.org/) to run the jupyter notebooks
+**Script Pre-requisites** : *Python pip & Biopython*, which can be installed using the following command: 
 ```
-https://github.com/bhagesh-codebeast/bioinformtics/tree/main/Notebooks
-````
+pip install biopython
+```
+
+**Jupyter Notebook Pre-requisites** : *Python pip, Biopython & Jupyter notebook*, which can be installed using the following command: 
+```
+pip install biopython && pip install notebook
+```
+
+Run the notebooks by opening command-line/shell in the desired folder and typing in 
+``` 
+jupyter notebook 
+```
 
 # Python Scripts
 1. [Script to convert PDB files to Fasta format](https://github.com/bhagesh-codebeast/bioinformtics/blob/main/Scripts/pdb2fasta.py)
@@ -53,7 +56,17 @@ https://github.com/bhagesh-codebeast/bioinformtics/tree/main/Notebooks
     python seqstats.py -i folder/inputfile.gb/fa/pdb -o folder/outputfile.pdf -f seqformat(gb/fa/pdb)
     ```
 
----
+# Jupyter NoteBooks
+
+1. [Sequence Parsing & Reading](https://github.com/bhagesh-codebeast/bioinformtics/blob/main/Notebooks/sequence_parsing%26reading.ipynb)
+2. Sequence Downloading
+3. Sequence Statistics & visualisation
+
+# Binder
+Copy GitHub repository URL below and paste it in [Binder](https://mybinder.org/) to run the jupyter notebooks
+```
+https://github.com/bhagesh-codebeast/bioinformtics/tree/main/Notebooks
+````
 
 ## Connect with me:
 
