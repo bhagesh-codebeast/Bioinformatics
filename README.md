@@ -1,19 +1,23 @@
 # Requirements
 
-**Script Pre-requisites** : *Python pip & Biopython*, which can be installed using the following command: 
-```
-pip install biopython
-```
+- **Script Pre-requisites**
+    
+    *Python pip & Biopython*, which can be installed using the following command: 
+    ```
+    pip install biopython
+    ```
 
-**Jupyter Notebook Pre-requisites** : *Python pip, Biopython & Jupyter notebook*, which can be installed using the following command: 
-```
-pip install biopython && pip install notebook
-```
+- **Jupyter Notebook Pre-requisites** 
+    
+    *Python pip, Biopython & Jupyter notebook*, which can be installed using the following command: 
+    ```
+    pip install biopython && pip install notebook
+    ```
 
-Run the notebooks by opening command-line/shell in the desired folder and typing in 
-``` 
-jupyter notebook 
-```
+    Run the notebooks by opening command-line/shell in the desired folder and typing in 
+    ``` 
+    jupyter notebook 
+    ```
 
 # Python Scripts
 1. [**Script to convert PDB files to Fasta format**](https://github.com/bhagesh-codebeast/bioinformtics/blob/main/Scripts/pdb2fasta.py)
