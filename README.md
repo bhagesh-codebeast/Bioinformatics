@@ -20,6 +20,8 @@
     ```
 
 # Python Scripts
+## Clone this repo to run the scripts 👇
+
 https://user-images.githubusercontent.com/59648429/118191110-b49dcd00-b461-11eb-921c-ddf4781eb162.mp4
 
 ---
