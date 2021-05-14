@@ -1,3 +1,6 @@
+# Bioinformatics
+**Python Scripts & Jupyter NoteBooks to Visualise & Analyse Biological Sequence data**
+
 # Requirements
 
 - **Script Pre-requisites**
