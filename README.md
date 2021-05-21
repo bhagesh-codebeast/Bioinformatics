@@ -1,16 +1,16 @@
 # Bioinformatics
-**Python Scripts & Jupyter NoteBooks to Visualise & Analyse Biological Sequence data**
+#### **Python Scripts & Jupyter NoteBooks to Visualise & Analyse Biological Sequence data**
 
-# Requirements
+# A. Requirements
 
-- **Script Pre-requisites**
+#### **Script Pre-requisites**
     
     *Python pip & Biopython*, which can be installed using the following command: 
     ```
     pip install biopython
     ```
 
-- **Jupyter Notebook Pre-requisites** 
+#### **Jupyter Notebook Pre-requisites** 
     
     *Python pip, Biopython & Jupyter notebook*, which can be installed using the following command: 
     ```
@@ -22,8 +22,8 @@
     jupyter notebook 
     ```
 
-# Python Scripts
-## Clone this repo to run the scripts 👇
+# B. Python Scripts
+#### Clone this repo to run the scripts 👇
 
 https://user-images.githubusercontent.com/59648429/118191110-b49dcd00-b461-11eb-921c-ddf4781eb162.mp4
 
@@ -65,19 +65,19 @@ https://user-images.githubusercontent.com/59648429/118191110-b49dcd00-b461-11eb-
     python seqstats.py -i folder/inputfile.gb/fa/pdb -o folder/outputfile.pdf -f seqformat(gb/fa/pdb)
     ```
 
-# Jupyter NoteBooks
+# C. Jupyter NoteBooks
 
 1. [**Sequence Parsing & Reading**](https://github.com/bhagesh-codebeast/Bioinformatics/blob/main/Notebooks/sequence_parsing%26reading.ipynb)
 2. [**Sequence Downloading**](https://github.com/bhagesh-codebeast/Bioinformatics/blob/main/Notebooks/sequence_download.ipynb)
 3. **Sequence Statistics & visualisation**
 
-# Binder
+# D. Binder
 Copy GitHub repository URL below and paste it in [**Binder**](https://mybinder.org/) to view & run the jupyter notebooks
 ```
 https://github.com/bhagesh-codebeast/bioinformtics/tree/main/Notebooks
 ````
 
-## Connect with me:
+#### Connect with me:
 
 [![](https://img.shields.io/badge/linkedin-bhageshhunakunti-informational?style=flat&logo=LinkedIn&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/bhagesh-hunakunti/)
 ![](https://img.shields.io/badge/mail-hunakuntibhagesh@gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=2bbc8a)
