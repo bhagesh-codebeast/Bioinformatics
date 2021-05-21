@@ -3,24 +3,20 @@
 
 # A. Requirements
 
-#### **Script Pre-requisites**
+### i. **Script Pre-requisites**
+*Python pip & Biopython*, which can be installed using the following command: 
     
-    *Python pip & Biopython*, which can be installed using the following command: 
-    ```
     pip install biopython
-    ```
 
-#### **Jupyter Notebook Pre-requisites** 
-    
-    *Python pip, Biopython & Jupyter notebook*, which can be installed using the following command: 
-    ```
+### ii. **Jupyter Notebook Pre-requisites** 
+*Python pip, Biopython & Jupyter notebook*, which can be installed using the following command: 
+
     pip install biopython && pip install notebook
-    ```
 
-    Run the notebooks by opening command-line/shell in the desired folder and typing in 
-    ``` 
+Run the notebooks by opening command-line/shell in the desired folder and typing in 
+
     jupyter notebook 
-    ```
+
 
 # B. Python Scripts
 #### Clone this repo to run the scripts 👇
