@@ -69,10 +69,7 @@ https://user-images.githubusercontent.com/59648429/118191110-b49dcd00-b461-11eb-
 4. **Sequence Statistics & visualisation**
 
 # D. Binder
-Copy GitHub repository URL below and paste it in [**Binder**](https://mybinder.org/) to view & run the jupyter notebooks
-```
-https://github.com/bhagesh-codebeast/bioinformtics/tree/main/Notebooks
-````
+Launch with [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bhagesh-codebeast/Bioinformatics/HEAD) to view & run the jupyter notebooks.
 
 #### Connect with me:
 
