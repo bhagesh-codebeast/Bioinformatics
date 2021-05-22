@@ -1,4 +1,4 @@
-# Bioinformatics
+# Bioinformatics [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bhagesh-codebeast/Bioinformatics/HEAD)
 #### **Python Scripts & Jupyter NoteBooks to Visualise & Analyse Biological Sequence data**
 
 # A. Requirements
