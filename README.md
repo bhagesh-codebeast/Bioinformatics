@@ -11,7 +11,7 @@
 ### ii. **Jupyter Notebook Pre-requisites** 
 *Python pip, Biopython & Jupyter notebook*, which can be installed using the following command: 
 
-    pip install biopython && pip install notebook
+    pip install biopython && pip install biopandas && pip install notebook
 
 Run the notebooks by opening command-line/shell in the desired folder and typing in 
 
@@ -65,7 +65,8 @@ https://user-images.githubusercontent.com/59648429/118191110-b49dcd00-b461-11eb-
 
 1. [**Sequence Parsing & Reading**](https://github.com/bhagesh-codebeast/Bioinformatics/blob/main/Notebooks/sequence_parsing%26reading.ipynb)
 2. [**Sequence Downloading**](https://github.com/bhagesh-codebeast/Bioinformatics/blob/main/Notebooks/sequence_download.ipynb)
-3. **Sequence Statistics & visualisation**
+3. [**BioPandas**](https://github.com/bhagesh-codebeast/Bioinformatics/blob/main/Notebooks/BioPandas.ipynb)
+4. **Sequence Statistics & visualisation**
 
 # D. Binder
 Copy GitHub repository URL below and paste it in [**Binder**](https://mybinder.org/) to view & run the jupyter notebooks
